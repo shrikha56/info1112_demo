@@ -1,4 +1,5 @@
 #!/bin/bash
+chmod +x loganalyze.sh tests/run_tc01.sh
 
 DATA_FILE="$HOME/analysisData.log"
 SUMMARY_FILE="$HOME/summary.log"
